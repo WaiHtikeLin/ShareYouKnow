@@ -1,0 +1,78 @@
+body{
+	background: rgb(7,15,31);
+	color: white;  
+}
+header{
+	color: red;
+	padding-top: 10px;
+}
+#menu{
+	background-color: black; 
+}
+
+
+.at{
+	color: orange;
+}
+a{
+	color: #aaaaaa;
+}
+a:active{
+	color: orange;
+}
+img{
+	width: 100%;
+	height: 200px;
+}
+img:hover{
+	opacity: 0.5;
+}
+.imglinks>div{
+	padding: 5px;
+}
+.footer{
+	margin-top: 10px;
+	border-top: 5px solid orange;
+	color: orange;
+	padding: 10px;
+}
+.asidenav,.aside{
+	background-color: black;
+	margin-top: 5px;
+}
+article{
+	background-color: black;
+	padding:10px;
+	margin-top: 5px; 
+}
+.stats{
+	color: #aaaaaa;
+}
+
+.replies{
+	margin-left: 100px;
+}
+.fade{
+	color: black;
+}
+#at{
+	color: orange;
+}
+img#profile
+{
+	height: 30px;
+	width: 30px;
+	margin-right: 10px;
+}
+nav{
+	background: black;
+}
+
+.rating{
+	display: block;
+}
+
+.post-title,.post-des,.comment-words,.reply-words{
+	word-wrap: break-word;
+	white-space: normal;
+}
